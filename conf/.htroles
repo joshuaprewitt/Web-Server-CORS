@@ -1,0 +1,7 @@
+# Mappings
+
+# Descriptions
+r:admins:user:admin
+d:admins:Built-in role for admins
+d:users:Built-in role that always contains all users
+d:everyone:Built-in role that allows unauthenticated users
